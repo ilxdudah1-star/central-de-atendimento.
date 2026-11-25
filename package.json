@@ -1,0 +1,13 @@
+
+{
+  "name": "central-de-atendimento",
+  "version": "1.0.0",
+  "description": "Bot de atendimento por tickets para Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
